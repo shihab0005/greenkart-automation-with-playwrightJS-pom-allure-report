@@ -1,4 +1,4 @@
-# Green Kart Full Automation With PlaywrightJs,Page Object Model and Allure Report
+## Green Kart Full Automation With PlaywrightJs,Page Object Model and Allure Report
 
 Navigate to Green kart webpage and check few Assertion like url,title,search_box,cart_btn,flight booking,items,total items,
 item image,item price,print all item name and item price, also cleck all item cart increment and decrement button work or not,check add to cart button 
