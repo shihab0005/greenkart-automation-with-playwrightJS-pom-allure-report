@@ -18,7 +18,7 @@ to Check Validity.Also User Can Successfully Logout.
 Successfully Order Palced
 ![App Screenshot](https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report/blob/main/Output/test-finished-1.png?raw=true)
 ![App Screenshot](https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report/blob/main/Output/test-finished-2.png?raw=true)
-![App Screenshot](https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report/blob/main/Output/test-finished-1.png?raw=true)
+![App Screenshot](https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report/blob/main/Output/test-finished-3.png?raw=true)
 
 ## Allure Report without POM
 ![App Screenshot](https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report/blob/main/Output/Capture.PNG?raw=true)
