@@ -1,8 +1,8 @@
 # Green Kart Full Automation With PlaywrightJs,Page Object Model and Allure Report
 
-User Login With username and password and Select Product dynamically and add to Cart Product.
-Successfully purches product which is added to Cart with user details form fillup.There are use Some Assertion 
-to Check Validity.Also User Can Successfully Logout.
+Navigate to Green kart webpage and check few Assertion like url,title,search_box,cart_btn,flight booking,items,total items,
+item image,item price,print all item name and item price, also cleck all item cart increment and decrement button work or not,check add to cart button 
+of all item work properly or not,search item with type.finally order a item successfully.
 
 ## Technology used:
 - Playwright JS
@@ -31,7 +31,7 @@ Successfully Order Palced
 
 - Clone Project Command:
 ```bash
-   git clone https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports.git 
+   git clone https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report.git 
 ```
 - Install All Project Package:
 ```bash
