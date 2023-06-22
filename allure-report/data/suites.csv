@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 22 22:49:43 BDT 2023","Thu Jun 22 22:50:40 BDT 2023","57042","","","Check Ui With Assertion on home Page","","","Check All Element",""
+"passed","Thu Jun 22 22:49:43 BDT 2023","Thu Jun 22 22:50:48 BDT 2023","64476","","","Vegetables and Fruits Cart Assertion","","","Display All Vegetables",""
+"passed","Thu Jun 22 22:50:42 BDT 2023","Thu Jun 22 22:50:57 BDT 2023","15095","","","Purches Vegetables and Fruits ","","","Oder Item and Confirm Order",""
+"passed","Thu Jun 22 22:50:41 BDT 2023","Thu Jun 22 22:51:02 BDT 2023","20854","","","Vegetables and Fruits Cart Assertion","","","Vegetables and Fruits Add to Cart",""
+"passed","Thu Jun 22 22:50:40 BDT 2023","Thu Jun 22 22:51:09 BDT 2023","28735","","","Vegetables and Fruits Cart Assertion","","","Check Increment And Decrement Button Of Product",""
+"passed","Thu Jun 22 22:49:43 BDT 2023","Thu Jun 22 22:50:41 BDT 2023","58109","","","Search Vegetables and Fruits","","","Product Search",""
+"passed","Thu Jun 22 22:49:43 BDT 2023","Thu Jun 22 22:50:41 BDT 2023","57838","","","Search Vegetables and Fruits","","","Product Cart Assertion",""
