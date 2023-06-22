@@ -19,7 +19,7 @@ Successfully Order Palced
 ![App Screenshot](https://github.com/shihab0005/automation-playwright-js-order-product-ecommerce/blob/main/output/test-finished-1.png?raw=true)
 
 ## Allure Report without POM
-![App Screenshot](https://github.com/shihab0005/automation-playwright-js-order-product-ecommerce/blob/main/output/Capture.PNG?raw=true)
+![App Screenshot](https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report/blob/main/Output/Capture.PNG?raw=true)
 
 ## Prerequisite:
 - Node Js
