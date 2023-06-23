@@ -5,10 +5,12 @@ item image,item price,print all item name and item price, also cleck all item ca
 of all item work properly or not,search item with type.finally order a item successfully.
 
 ## Technology used:
-- Playwright JS
-- Page Object Model
-- Allure Report
-- Html Report
+  - Test Tool: Playwright
+  - Language: Javascript
+  - Architecture: POM (Page Object Model)
+  - Report Framework: Allure Report
+  - IDE: VSCode
+  - Version Control: Github 
 
 ## Video:
 [48cc3d701144a3d4.webm](https://github.com/shihab0005/greenkart-automation-with-playwrightJS-pom-allure-report/assets/41753677/44667fc6-d636-412e-8456-d86c59463020)
