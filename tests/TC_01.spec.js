@@ -17,4 +17,5 @@ test.describe("Check Ui With Assertion on home Page", async () => {
     const homeUi = new HomeAssertion(page);
     await homeUi.HomePageAssertion();
   });
+  
 });
