@@ -7,8 +7,6 @@ const title = "GreenKart - veg and fruits kart";
 
 test.describe("Check Ui With Assertion on home Page", async () => {
   test.beforeEach(async ({ page }) => {
-    // const contex = await browser.newContext();
-    // const page = await contex.newPage();
     const nav = new Navigate(page);
     await nav.navigateToWebpage(Url, title);
   });
@@ -17,5 +15,5 @@ test.describe("Check Ui With Assertion on home Page", async () => {
     const homeUi = new HomeAssertion(page);
     await homeUi.HomePageAssertion();
   });
-  
+
 });
