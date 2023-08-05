@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:chrome": "npx playwright test --project=Chrome"
+    "test": "npx playwright test",
+    "test:chrome": "npx playwright test --project=Chrome",
+    "test:one": "npx playwright test TC_01.spec.js --project=Chrome",
+    "test:two": "npx playwright test TC_02.spec.js  --project=Chrome",
+    "test:three": "npx playwright test TC_03.spec.js --project=Chrome",
+    "test:four": "npx playwright test TC_04.spec.js --project=Chrome"
   },
   "keywords": [],
   "author": "",
